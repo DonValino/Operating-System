@@ -1,0 +1,31 @@
+(2)
+
+(3)
+(c)222.27
+(D)68.95GB
+(E)79 Running Process
+
+(4)
+(a)68 process
+(b)In Windows NT operating systems, the System Idle Process contains one or 
+more kernel threads which run when no other runnable thread can be scheduled on a CPU.
+(C) 100% in Priviledge, 0% in User.
+(D) Base priority class is WIN32_IDLE_PRIORITY_CLASS
+(E)The priority class of the thread running in the idle process is Idle
+(F)Dynamic Priority is 0.
+(G)With the PView process viewer (PVIEW.EXE), you can examine and modify many characteristics of the processes and threads running on your system.
+With PView, you can modify the status of processes running on your system. 
+As a result, by using PView, you can stop processes and potentially halt the entire system.
+(H) The base priority class of the PVIEW process is WIN32_NORMAL_PRIORITY_CLASS.
+(I) 2 process.
+(J) The priority class of the thread running in the PVIEW process is Normal.
+(K) Those with percentage in Privileged and User time have 2 or more threads running.
+
+(5)
+(a) 4 Thread. It is not the same because Thread 0 starts the process.
+(b)The thread increases the CPU usage.
+(c)the CPU load primarily user computing.
+(d)8 - 10 Dynamic Priorities.
+
+(7)
+(a)The resources that this process and its threads uses most heavily is the Context Switches
